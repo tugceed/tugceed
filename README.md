@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 📫 How to reach me **tugceerdogan8157@hotmail.com**
+- 📫 How to reach me **tugceerdogan57@hotmail.com**
 
 
 ## 🚀 Languages and Tools:
