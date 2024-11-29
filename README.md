@@ -5,15 +5,6 @@
 <img src="https://media.tenor.com/YdTpw-54DXcAAAAC/pusheen-laptop.gif"/>
 </p>
 
-## 🙋🏻‍♀️ About Me
-
-- ⚡️ I’m currently learning **CSS/JavaScript.**
-
-- 👯 I’m looking to collaborate on **Open Source Projects**
-
-- 🗣 I write code everyday and I improve myself day by day.
-
-- 📚 I'm studying Computer Engineering at Duzce University and I'll graduate next year.
 
 
 ## 🚀 Languages and Tools:
